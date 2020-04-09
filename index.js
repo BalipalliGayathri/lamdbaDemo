@@ -1,4 +1,4 @@
 exports.handler = (event, context, callback) => {
     // TODO implement
-    callback(null, 'Hello from Lambda via Azure Pipelines');
+    callback(null, 'Hello from Lambda via Azure Pipelines testing');
 };
